@@ -1,0 +1,18 @@
+PackageIdentifier: AroCodes.AroCrypt
+PackageVersion: 0.4.2
+PackageLocale: en-US
+Publisher: AroCodes
+PublisherUrl: https://github.com/OfficialAroCodes
+PublisherSupportUrl: https://github.com/OfficialAroCodes/arocrypt/issues
+PrivacyUrl: https://github.com/OfficialAroCodes/arocrypt/blob/main/PRIVACY.md
+Author: AroCodes Team
+PackageName: AroCrypt
+PackageDescription: A simple and secure encryption tool made by AroCodes.
+Tags:
+  - encryption
+  - security
+  - cryptography
+  - privacy
+License: MIT
+LicenseUrl: https://github.com/OfficialAroCodes/arocrypt/blob/main/LICENSE
+Homepage: https://github.com/OfficialAroCodes/arocrypt

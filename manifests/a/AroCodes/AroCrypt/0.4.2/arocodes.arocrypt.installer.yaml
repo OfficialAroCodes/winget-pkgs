@@ -1,0 +1,8 @@
+PackageIdentifier: AroCodes.AroCrypt
+PackageVersion: 0.4.2
+InstallerType: exe
+Installers:
+  - Architecture: x64
+    InstallerUrl: https://github.com/OfficialAroCodes/arocrypt/releases/download/v0.4.2/AroCrypt-Setup-0.4.2.exe
+    InstallerSha256: 74e638bb47cf610ea9fac7441a1f60665699ef0a1e7244e0f8ea17dcd60b58bb
+    Scope: user
